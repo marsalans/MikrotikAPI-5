@@ -1,0 +1,19 @@
+/**
+ * Mikrotik API - RouterBoard
+ * @author Martin Dobry
+ * @link http://webscript.cz
+ * @version 1.0
+ */
+
+body {
+	font-family: 'Open Sans', sans-serif;
+}
+
+h1 {
+	margin: 0 auto;
+	padding-bottom: 20px;
+}
+
+pre {
+	font-size: 10px;
+}
