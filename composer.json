@@ -1,0 +1,16 @@
+{
+    "name": "MikrotikAPI",
+    "description": "PHP API for Mikrotik",
+    "keywords": ["Routerboard Mikrotik"],
+    "homepage": "https://github.com/dobraczek/MikrotikAPI",
+    "license": "LGPL 2.1",
+    "authors": [
+        {
+            "name": "Martin Dobrý",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "files": ["Router.php"]
+    }
+}
